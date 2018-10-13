@@ -1,1 +1,6 @@
 
+BÀI TẬP ĐO NHẬN DIỆN QUAN HỆ BAO THUỘC (HYPERNYMY) DỰA TRÊN WORD EMBEDDINGS VÀ KỸ THUẬT PHÂN LỚP CÓ GIÁM SÁT (SUPERVISED CLASSIFICATION) ) 
+
+1. Viết chương phân lớp nhị phân có giám sát (support vector machine, ) sử dụng pre-trained word embeddings (thư mục word2vec) và
+bộ dữ liệu VLE999 (thư mục Datasets).
+ 
