@@ -5,7 +5,7 @@ BÀI TẬP ĐO NHẬN DIỆN QUAN HỆ BAO THUỘC (HYPERNYMY) DỰA TRÊN WORD 
 Sinh viên đăng ký chọn project theo một trong ba mức sau:
 
 STANDARD
-Viết chương phân lớp nhị phân có giám sát sử dụng support vector machine, pre-trained word embeddings (thư mục word2vec),
+- Viết chương trình phân lớp nhị phân có giám sát sử dụng support vector machine, pre-trained word embeddings (thư mục word2vec),
 huấn luyện và đánh giá trên bộ dữ liệu VLE999 (thư mục Datasets).
 
 MEDIUM
