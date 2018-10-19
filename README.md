@@ -9,8 +9,7 @@ STANDARD
 huấn luyện và đánh giá trên bộ dữ liệu VLE999 (thư mục Datasets).
 
 MEDIUM
--  Viết chương phân lớp nhị phân có giám sát (sử dụng: logistic regression, multi-layer perceptron neural network, convolutional neural network...)
-sử dụng pre-trained word embeddings (thư mục word2vec), huấn luyện và đánh giá trên bộ dữ liệu VLE999 (thư mục Datasets).
+-  Viết chương phân lớp nhị phân có giám sát (sử dụng: logistic regression, multi-layer perceptron neural network, convolutional neural network...) sử dụng pre-trained word embeddings (thư mục word2vec), huấn luyện và đánh giá trên bộ dữ liệu VLE999 (thư mục Datasets).
 
 HARD
 - Sử dụng WordNet làm mạnh thêm quan hệ Hypernymy của không gian Word Embeddings qua đó làm tăng hiệu quả phân lớp của 
